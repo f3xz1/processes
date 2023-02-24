@@ -7,13 +7,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
 {
     internal class Program
     {
-
-        class MyClass
-        {
-        public string name;
-        public string name1 { get; set; }
-        }
-
         static void Main(string[] args)
         {
             //1  
